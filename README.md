@@ -19,6 +19,8 @@ if they're any compatible wiimotes present
 
 The script will search and display wether the Wiimotes present are compatible
 
+For more information visit: http://wiibrew.org/wiki/Wiimote
+
 ### Differences from Python Implementation
 * Both "/wiimote/nunchuk" and "/wiimote/classic" topics are only published
 if the Nunchuk or Classic Controller are connected to the wiimote respectively.
