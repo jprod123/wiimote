@@ -17,6 +17,8 @@ if they're any compatible wiimotes present
 
 * Run the python script and turn on discoverable mode (pressing 1+2 or the sync button).
 
+The script will search and display wether the Wiimotes present are compatible
+
 ### Differences from Python Implementation
 * Both "/wiimote/nunchuk" and "/wiimote/classic" topics are only published
 if the Nunchuk or Classic Controller are connected to the wiimote respectively.
